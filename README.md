@@ -15,7 +15,7 @@ Build • Automate • Protect
 * Linux Administration
 * Docker
 * AWS
-* Security Engineering
+* Security Fundamentals
 
 ## Goals
 
