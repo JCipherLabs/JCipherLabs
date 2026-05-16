@@ -1,4 +1,4 @@
-![Banner](8a36fab1-2d83-462b-af23-1d196232f713.png)
+![Banner](28573.png)
 
 # JCipherLabs
 
